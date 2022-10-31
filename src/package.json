@@ -3,7 +3,7 @@
   "description": "This repository is forked from manijak/nativescript-photoviewer. A simple Photo-viewer component for NativeScript based on NYTPhotoViewer pod for iOS and ImageGalleryViewer for Android.",
   "main": "photoviewer",
   "typings": "photoviewer.d.ts",
-  "version": "3.0.1-alpha",
+  "version": "3.0.1-alpha-2",
   "nativescript": {
     "platforms": {
       "ios": "7.0.0",
