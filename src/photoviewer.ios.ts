@@ -6,7 +6,7 @@ export * from './photoviewer.common';
 
 declare const NSAttributedString: any;
 var _dataSource: NYTPhotoViewerArrayDataSource;
-const background_queue = dispatch_get_global_queue(qos_class_t.QOS_CLASS_DEFAULT, 0);
+const background_queue = dispatch_get_global_queue(21, 0);
 const main_queue = dispatch_get_current_queue();
 export class PhotoViewer implements PhotoViewerBase {
 
