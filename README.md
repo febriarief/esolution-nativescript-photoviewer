@@ -2,8 +2,6 @@
 [![npm](https://img.shields.io/npm/dt/nativescript-photoviewer.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-photoviewer)
 
 # NativeScript PhotoViewer
-This repository is forked from `manijak/nativescript-photoviewer`
-
 A simple photo-viewer/gallery component for NativeScript.
 
 ## Limitations

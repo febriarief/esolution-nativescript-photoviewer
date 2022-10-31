@@ -1,13 +1,13 @@
 {
   "name": "esolution-nativescript-photoviewer",
-  "description": "This repository is forked from manijak/nativescript-photoviewer. A simple Photo-viewer component for NativeScript based on NYTPhotoViewer pod for iOS and ImageGalleryViewer for Android.",
+  "description": "A simple Photo-viewer component for NativeScript based on NYTPhotoViewer pod for iOS and ImageGalleryViewer for Android.",
   "main": "photoviewer",
   "typings": "photoviewer.d.ts",
-  "version": "3.0.1",
+  "version": "3.0.1-alpha-3",
   "nativescript": {
     "platforms": {
       "ios": "7.0.0",
-      "android": "7.0.0"
+      "android": "8.3.1"
     },
     "plugin": {
       "nan": "true",
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/febriarief/esolution-nativescript-photoviewer.git"
+    "url": "https://github.com/manijak/nativescript-photoviewer.git"
   },
   "keywords": [
     "NativeScript",
@@ -72,10 +72,10 @@
     "name": "Nedim Erkocevic"
   },
   "bugs": {
-    "url": "https://github.com/febriarief/esolution-nativescript-photoviewer/issues"
+    "url": "https://github.com/manijak/nativescript-photoviewer/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/febriarief/esolution-nativescript-photoviewer",
+  "homepage": "https://github.com/manijak/nativescript-photoviewer",
   "readmeFilename": "README.md",
   "devDependencies": {
     "husky": "^6.0.0",
