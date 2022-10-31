@@ -2,5 +2,5 @@ android {
     
 }
 dependencies {
-  compile 'com.github.lawloretienne:imagegallery:0.0.13'
+  implementation 'com.github.lawloretienne:imagegallery:0.0.13'
 }
