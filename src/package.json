@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-photoviewer",
+  "name": "esolution-nativescript-photoviewer",
   "description": "A simple Photo-viewer component for NativeScript based on NYTPhotoViewer pod for iOS and ImageGalleryViewer for Android.",
   "main": "photoviewer",
   "typings": "photoviewer.d.ts",
